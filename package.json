@@ -1,6 +1,6 @@
 {
 	"name": "node-mailer",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Mailer on top of nodemailer",
 	"homepage": "https://github.com/srod/node-mailer",
 	"author": {
