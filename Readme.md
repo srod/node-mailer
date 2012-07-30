@@ -1,3 +1,4 @@
+# /!\/!\ Node-mailer is outdated, please use Nodemailer https://github.com/andris9/Nodemailer /!\/!\
 
 # Node-mailer
       
